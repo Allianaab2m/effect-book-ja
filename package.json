@@ -2,6 +2,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.3.11",
     "@shikijs/vitepress-twoslash": "^3.20.0",
+    "pnpm": "10.14.0",
     "vitepress": "2.0.0-alpha.15"
   },
   "scripts": {
@@ -12,5 +13,6 @@
   "dependencies": {
     "effect": "^3.19.14",
     "markdown-it-budoux": "^1.0.6"
-  }
+  },
+  "packageManager": "pnpm@10.14.0"
 }

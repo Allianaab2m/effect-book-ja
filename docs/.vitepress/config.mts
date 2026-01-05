@@ -7,6 +7,7 @@ export default defineConfig({
   lang: "ja-JP",
   title: "Effect Books JA",
   description: "Effect-TSを学ぶための日本語ドキュメント",
+  base: "/effect-books-ja/",
   head: [
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
