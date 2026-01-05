@@ -5,9 +5,9 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "ja-JP",
-  title: "Effect Books JA",
+  title: "Effect Book JA",
   description: "Effect-TSを学ぶための日本語ドキュメント",
-  base: "/effect-books-ja/",
+  base: "/effect-book-ja/",
   head: [
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
